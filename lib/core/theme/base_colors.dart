@@ -1,4 +1,4 @@
-import 'package:memento/core/utils/hexToRGB.dart';
+import 'package:memento/core/utils/hex_to_rgb.dart';
 
 class BaseColors {
   // 🎨 Brand
