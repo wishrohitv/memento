@@ -139,7 +139,6 @@ class _GroupCardState extends State<GroupCard> {
                           dateModification: revision.dateModification,
                           borderHighlightedColor: colors.borderSelectedBlue,
                           cardColor: colors.fillLightBlueSurface,
-                          // TODO: fix badge overflow
                           showFloatingBadge: false,
                         ),
                       )
